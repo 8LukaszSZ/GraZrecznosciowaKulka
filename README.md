@@ -11,13 +11,13 @@ Wcielasz się w kulkę, której zadaniem jest wspinanie się jak najwyżej po po
 1. Otwórz projekt w Unity (zalecana wersja: 2021.3 LTS lub nowsza).
 2. Otwórz scenę SampleScene z folderu Assets/Scenes.
 3. Wciśnij Play i baw się dobrze!
-## Wykorzystane zasoby
-- Tekstury i materiały: Fantasy Skybox FREE, PBS Materials Variety Pack, WorldMaterialsFree
-- UI: TextMesh Pro
-- System wejścia: Unity Input System
 ## Pobierz gotową wersję gry
 Aby pobrać gotową, działającą wersję gry, skorzystaj z poniższego linku do Google Drive:<br>
 [Pobierz grę z Google Drive](https://drive.google.com/drive/folders/1AhI8i2iYmFg_rvfx5X-3g05eXTUUcU_U?usp=sharing)<br>
 Po pobraniu rozpakuj archiwum i uruchom plik GraZrecznosciowaKulka.exe, aby zagrać bezpośrednio, bez potrzeby instalowania Unity.
+## Wykorzystane zasoby
+- Tekstury i materiały: Fantasy Skybox FREE, PBS Materials Variety Pack, WorldMaterialsFree
+- UI: TextMesh Pro
+- System wejścia: Unity Input System
 ## Autor
 Łukasz Szkatuła
