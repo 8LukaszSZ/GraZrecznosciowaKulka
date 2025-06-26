@@ -15,5 +15,9 @@ Wcielasz się w kulkę, której zadaniem jest wspinanie się jak najwyżej po po
 - Tekstury i materiały: Fantasy Skybox FREE, PBS Materials Variety Pack, WorldMaterialsFree
 - UI: TextMesh Pro
 - System wejścia: Unity Input System
+## Pobierz gotową wersję gry
+Aby pobrać gotową, działającą wersję gry, skorzystaj z poniższego linku do Google Drive:
+[Pobierz grę z Google Drive](https://drive.google.com/drive/folders/1AhI8i2iYmFg_rvfx5X-3g05eXTUUcU_U?usp=sharing)
+Po pobraniu rozpakuj archiwum i uruchom plik GraZrecznosciowaKulka.exe, aby zagrać bezpośrednio, bez potrzeby instalowania Unity.
 ## Autor
 Łukasz Szkatuła
