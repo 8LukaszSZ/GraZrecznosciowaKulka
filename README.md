@@ -9,7 +9,8 @@ Wcielasz się w kulkę, której zadaniem jest wspinanie się jak najwyżej po po
 - Pauza: Escape
 ## Zrzuty ekranu
 Poniżej znajdziesz kilka zrzutów ekranu przedstawiających rozgrywkę oraz interfejs użytkownika gry:<br>
-![Rozgrywka:](Images/img1.png)
+Rozgrywka:<br>
+![Rozgrywka](Images/img1.png)
 ## Jak uruchomić projekt
 1. Otwórz projekt w Unity (zalecana wersja: 2021.3 LTS lub nowsza).
 2. Otwórz scenę SampleScene z folderu Assets/Scenes.
