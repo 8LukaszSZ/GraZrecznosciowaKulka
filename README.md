@@ -2,11 +2,6 @@
 Trójwymiarowa gra zręcznościowa stworzona w silniku Unity. Steruj kulką, skacz po platformach i zdobywaj jak najwyższy wynik!
 ## Opis gry
 Wcielasz się w kulkę, której zadaniem jest wspinanie się jak najwyżej po pojawiających się platformach. W grze występują zarówno platformy statyczne, jak i ruchome, co zwiększa poziom trudności. Uważaj, aby nie spaść – gra kończy się, gdy kulka spadnie poniżej określonego poziomu.
-## Sterowanie
-- Ruch: W, A, S, D lub strzałki
-- Skok: Spacja
-- Obrót kamery: Mysz
-- Pauza: Escape
 ## Zrzuty ekranu
 Poniżej znajdziesz kilka zrzutów ekranu przedstawiających rozgrywkę oraz interfejs użytkownika gry:<br>
 Rozgrywka:<br>
@@ -17,7 +12,12 @@ UI podczas gry:<br>
 ![UI_podczas_gry](Images/img4.png)<br>
 Ekran przegranej:<br>
 ![Ekran_przegranej](Images/img5.png)
-## Jak uruchomić projekt
+## Sterowanie
+- Ruch: W, A, S, D lub strzałki
+- Skok: Spacja
+- Obrót kamery: Mysz
+- Pauza: Escape
+## Jak uruchomić projekt (dla deweloperów)
 1. Otwórz projekt w Unity (zalecana wersja: 2021.3 LTS lub nowsza).
 2. Otwórz scenę SampleScene z folderu Assets/Scenes.
 3. Wciśnij Play i baw się dobrze!
