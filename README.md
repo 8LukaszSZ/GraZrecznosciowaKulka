@@ -10,7 +10,13 @@ Wcielasz się w kulkę, której zadaniem jest wspinanie się jak najwyżej po po
 ## Zrzuty ekranu
 Poniżej znajdziesz kilka zrzutów ekranu przedstawiających rozgrywkę oraz interfejs użytkownika gry:<br>
 Rozgrywka:<br>
-![Rozgrywka](Images/img1.png)
+![Rozgrywka_img1](Images/img1.png)
+![Rozgrywka_img2](Images/img2.png)
+![Rozgrywka_img3](Images/img3.png)
+UI podczas gry:<br>
+![UI_podczas_gry](Images/img4.png)
+Ekran przegranej:<br>
+![Ekran_przegranej](Images/img5.png)
 ## Jak uruchomić projekt
 1. Otwórz projekt w Unity (zalecana wersja: 2021.3 LTS lub nowsza).
 2. Otwórz scenę SampleScene z folderu Assets/Scenes.
