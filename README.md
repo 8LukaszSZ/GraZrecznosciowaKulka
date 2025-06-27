@@ -12,9 +12,9 @@ Poniżej znajdziesz kilka zrzutów ekranu przedstawiających rozgrywkę oraz int
 Rozgrywka:<br>
 ![Rozgrywka_img1](Images/img1.png)
 ![Rozgrywka_img2](Images/img2.png)
-![Rozgrywka_img3](Images/img3.png)
+![Rozgrywka_img3](Images/img3.png)<br>
 UI podczas gry:<br>
-![UI_podczas_gry](Images/img4.png)
+![UI_podczas_gry](Images/img4.png)<br>
 Ekran przegranej:<br>
 ![Ekran_przegranej](Images/img5.png)
 ## Jak uruchomić projekt
